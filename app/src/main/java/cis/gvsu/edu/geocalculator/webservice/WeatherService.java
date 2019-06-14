@@ -28,7 +28,7 @@ public class WeatherService extends IntentService {
     // TODO: Rename actions, choose action names that describe tasks that this
     // IntentService can perform, e.g. ACTION_FETCH_NEW_ITEMS
     private static final String ACTION_WEATHER_AT = "cis.gvsu.edu.geocalculator.webservice.action.WEATHER_AT";
-    private static final String BASE_URL = "https://api.darksky.net/forecast/f7ad3a464ee7c5d8f9ac1ba3aad332a0";
+    private static final String BASE_URL = "https://api.darksky.net/forecast/Dark-Sky-API-key";
     public static final String BROADCAST_WEATHER = "cis.gvsu.edu.geocalculator.webservice.action.BROADCAST";
     // TODO: Rename parameters
     private static final String EXTRA_KEY = "cis.gvsu.edu.geocalculator.webservice.extra.KEY";
