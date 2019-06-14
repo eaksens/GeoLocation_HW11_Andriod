@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "470114868170",
+    "firebase_url": "https://geolocationapp-243300.firebaseio.com",
+    "project_id": "geolocationapp-243300",
+    "storage_bucket": "geolocationapp-243300.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470114868170:android:ca382a209ade0f96",
+        "android_client_info": {
+          "package_name": "cis.gvsu.edu.geocalculator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5bdsLr_-1RZrL7E7KseGW7QK7Ex_Rbsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470114868170:android:869695ab2d52bdc8",
+        "android_client_info": {
+          "package_name": "com.example.geocalculatorapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5bdsLr_-1RZrL7E7KseGW7QK7Ex_Rbsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
